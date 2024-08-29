@@ -1,3 +1,3 @@
 # GoodCode
 
-demo : <a href="https://mateenkhan.github.io/GoodCode/" target="_blank">here</a>
+demo : <a href="https://mateenkhan.github.io/AboutMe/" target="_blank">here</a>
